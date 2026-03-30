@@ -1,5 +1,7 @@
 <img src="assets/img/customers.png" alt="customers" width="972" height="1490">
-
+<br>
+<br>
+<br>
 ## Descripción del proyecto 
  A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. Es importante tener en cuenta lo siguiente:
 
@@ -7,14 +9,18 @@
 * Los métodos de visión artificial se pueden usar para determinar la edad de una persona a partir de una foto.
 
 El objetivo del proyecto es construir y evaluar un modelo para verificar la edad de las personas, utilizando un conjunto de fotografías de personas que indican su edad.
-
+<br>
+<br>
+<br>
 ## Objetivos del proyecto
 Los pasos realizados en este proyecto son los siguientes:
 
 * Análisis exploratorio del conjunto de datos, explorar la distribución de edad del conjunto y verificar la edad de imágenes tomadas al azar.
   
 * Verificación y desarrollo de un modelo de red neuronal convolucional (CNN) que pueda identificar edades con base en imágenes y que cumpla con el objetivo de tener un error absoluto medio (MAE) menor a 8 años.
-
+<br>
+<br>
+<br>
 ## Lenguajes y herramientas usadas
 
 Análisis exploratorio de datos: Python, Pandas, TensorFlow/Keras, Matplotlib. 
@@ -22,7 +28,9 @@ Análisis exploratorio de datos: Python, Pandas, TensorFlow/Keras, Matplotlib.
 Modelo de predicción: Redes Neuronales Convolucionales (CNN), ResNet50, optimizador Adam, analisis de capas por GlobalAveragePooling2D y Dense. 
 
 Métricas utilizadas: Error Absoluto Medio (MEA), Error Cuadrático Medio (MSE).
-
+<br>
+<br>
+<br>
 ## Conclusiones
 En este proyecto se inicio con un analisis exploratorio de datos en los que se observo la tendencia de las edades identificadas en el grupo de imagenes del conjunto de datos, siendo el rango de edades que tiene mayor presencia entre 23 y 30 años. Se validaron las imagenes dentro del conjunto del dataset.
 
