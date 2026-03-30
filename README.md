@@ -2,7 +2,8 @@
 <br>
 <br>
 <br>
-## Descripción del proyecto 
+
+## **Descripción del proyecto** 
  A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. Es importante tener en cuenta lo siguiente:
 
 * Las tiendas están equipadas con cámaras en el área de pago, las cuales se activan cuando una persona está comprando alcohol.
@@ -12,7 +13,8 @@ El objetivo del proyecto es construir y evaluar un modelo para verificar la edad
 <br>
 <br>
 <br>
-## Objetivos del proyecto
+
+## **Objetivos del proyecto**
 Los pasos realizados en este proyecto son los siguientes:
 
 * Análisis exploratorio del conjunto de datos, explorar la distribución de edad del conjunto y verificar la edad de imágenes tomadas al azar.
@@ -21,7 +23,8 @@ Los pasos realizados en este proyecto son los siguientes:
 <br>
 <br>
 <br>
-## Lenguajes y herramientas usadas
+
+## **Lenguajes y herramientas usadas**
 
 Análisis exploratorio de datos: Python, Pandas, TensorFlow/Keras, Matplotlib. 
 
@@ -31,7 +34,8 @@ Métricas utilizadas: Error Absoluto Medio (MEA), Error Cuadrático Medio (MSE).
 <br>
 <br>
 <br>
-## Conclusiones
+
+## **Conclusiones**
 En este proyecto se inicio con un analisis exploratorio de datos en los que se observo la tendencia de las edades identificadas en el grupo de imagenes del conjunto de datos, siendo el rango de edades que tiene mayor presencia entre 23 y 30 años. Se validaron las imagenes dentro del conjunto del dataset.
 
 <img src="assets/img/EDA.png" alt="EDA" width="551" height="850">
