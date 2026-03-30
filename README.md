@@ -1,3 +1,4 @@
+# Algoritmo de venta de alcohol a menores
 <img src="assets/img/proyecto.png" alt="proyecto" width="768" height="1408">
 
 <br>
@@ -26,6 +27,8 @@ Los pasos realizados en este proyecto son los siguientes:
 <br>
 
 ## **Lenguajes y herramientas usadas**
+
+Plataforma: Jupyter Notebook
 
 Análisis exploratorio de datos: Python, Pandas, TensorFlow/Keras, Matplotlib. 
 
