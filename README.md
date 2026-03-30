@@ -1,4 +1,5 @@
-<img src="assets/img/customers.png" alt="customers" width="972" height="1490">
+<img src="assets/img/proyecto.png" alt="proyecto" width="768" height="1408">
+
 <br>
 <br>
 <br>
@@ -48,3 +49,6 @@ Posteriormente se trabajo en el modelo de prediccion de edades usando identifica
 * El modelo alcanzó el objetivo en solo 4 épocas, empezando en la época 1 con un error y perdida altos y conforme pasaban épocas el error y pérdida fue disminuyendo hasta alcanzar el objetivo en la época 4.
 
  Este modelo puede servir de punto de partida al cliente como proyecto de vision artificial pero definitivamente ocupa mayor exactitud y mayor optimizacion para poder ser mas confiable y rapido. 
+
+ <img src="assets/img/customers.png" alt="customers" width="972" height="1490">
+
