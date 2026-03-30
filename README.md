@@ -28,13 +28,13 @@ Los pasos realizados en este proyecto son los siguientes:
 
 ## **Lenguajes y herramientas usadas**
 
-Plataforma: Jupyter Notebook
+**Plataforma:** Jupyter Notebook
 
-Análisis exploratorio de datos: Python, Pandas, TensorFlow/Keras, Matplotlib. 
+**Análisis exploratorio de datos:** Python, Pandas, TensorFlow/Keras, Matplotlib. 
 
-Modelo de predicción: Redes Neuronales Convolucionales (CNN), ResNet50, optimizador Adam, analisis de capas por GlobalAveragePooling2D y Dense. 
+**Modelo de predicción:** Redes Neuronales Convolucionales (CNN), ResNet50, optimizador Adam, analisis de capas por GlobalAveragePooling2D y Dense. 
 
-Métricas utilizadas: Error Absoluto Medio (MEA), Error Cuadrático Medio (MSE).
+**Métricas utilizadas:** Error Absoluto Medio (MEA), Error Cuadrático Medio (MSE).
 <br>
 <br>
 <br>
