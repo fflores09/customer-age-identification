@@ -1,3 +1,5 @@
+<img src="assets/img/customers.png" alt="customers" width="972" height="1490">
+
 ## Descripción del proyecto 
  A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. Es importante tener en cuenta lo siguiente:
 
@@ -23,6 +25,8 @@ Métricas utilizadas: Error Absoluto Medio (MEA), Error Cuadrático Medio (MSE).
 
 ## Conclusiones
 En este proyecto se inicio con un analisis exploratorio de datos en los que se observo la tendencia de las edades identificadas en el grupo de imagenes del conjunto de datos, siendo el rango de edades que tiene mayor presencia entre 23 y 30 años. Se validaron las imagenes dentro del conjunto del dataset.
+
+<img src="assets/img/EDA.png" alt="EDA" width="551" height="850">
 
 Posteriormente se trabajo en el modelo de prediccion de edades usando identificacion de imagenes y el modelo base ResNet, se verificó el progreso del modelo usando la métrica de MAE y para la pérdida MSE. Dentro de los resultados se obtuvieron las siguientes observaciones y mejoras:
 
